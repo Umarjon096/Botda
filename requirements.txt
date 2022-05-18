@@ -1,0 +1,9 @@
+telebot
+time
+telebot
+threading
+requests
+plyer
+pandas
+datetime
+pytz
